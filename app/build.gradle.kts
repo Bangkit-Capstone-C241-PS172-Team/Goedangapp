@@ -45,6 +45,8 @@ android {
     }
 }
 
+
+
 dependencies {
 
 
@@ -56,11 +58,13 @@ dependencies {
 
     implementation("de.hdodenhof:circleimageview:3.1.0")
 
+    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
     implementation("androidx.databinding:databinding-runtime:4.2.1")
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.google.android.gms:play-services-auth:21.2.0")
 
+    implementation ("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
 
 
